@@ -8,7 +8,7 @@
 
 
 
-## データ変数
+## csv データ変数
 ![cust](./capture/cust.png)<br>
 
 ![claim](./capture/claim.png)<br>
